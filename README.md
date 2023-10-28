@@ -1,4 +1,4 @@
-![Uploading COVER GITHUB.png…]()
+"D:\My Images\COVER GITHUB.png"
 
 - 👋 Hi, I’m @AzizulHakim01
 - 👀 I’m interested in MERN Stack
