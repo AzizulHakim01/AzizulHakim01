@@ -1,3 +1,5 @@
+![Uploading COVER GITHUB.png…]()
+
 - 👋 Hi, I’m @AzizulHakim01
 - 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning MERN stack full stack development
