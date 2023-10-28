@@ -1,4 +1,4 @@
-- ![Uploading COVER GITHUB.png…]()
+![MY_PHOTO](https://imgur.com/a/RnM5MK0)
 
 - 👋 Hi, I’m @AzizulHakim01
 - 👀 I’m interested in MERN Stack
