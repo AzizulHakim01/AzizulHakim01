@@ -1,4 +1,4 @@
-![MY_PHOTO](https://imgur.com/a/RnM5MK0)
+![MY_PHOTO](https://i.imgur.com/SVVRD5a.png)
 
 - 👋 Hi, I’m @AzizulHakim01
 - 👀 I’m interested in MERN Stack
